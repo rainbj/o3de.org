@@ -47,6 +47,14 @@ Component cards have two primary patterns 1 or 2 column layout. Priority is give
 
 {{< image-width "/images/tools-ui/ux-patterns/component-card/overview/layout-and-spacing.png" "500" "Layout and spacing content in a card component" >}}
 
+<table style="border:solid 1px #ccc;">
+  <tr>
+  <td>Column1</td>
+  <td>Column2</td>
+  </tr>
+</table>
+
+
 ### One column layout
 
 One column layout is best for larger input text area. For example, our comment card uses a 1 column. In this situation the priority of the component card is the maximum amount of input space. 
